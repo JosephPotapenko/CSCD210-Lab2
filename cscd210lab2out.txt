@@ -1,0 +1,46 @@
+ 
+  ----jGRASP exec: java cscd210lab2.CSCD210Lab2
+ Please enter the skier's name: Stu the Goo
+ Please enter the winning time: 123.45
+ 
+ Stu was traveling at a rate of: 
+ 20.25 meters per second,
+ 66.44 feet per second,
+ 72.9 kilometers per hour,
+ 45.3 miles per hour,
+ 
+ It would take 1 minutes and 19.47 seconds for Stu to ski one mile.
+ It would take 4.52 seconds for Stu to ski 100 yards.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab2.CSCD210Lab2
+ Please enter the skier's name: Joe
+ Please enter the winning time: 200
+ 
+ Joe was traveling at a rate of: 
+ 12.5 meters per second,
+ 41.01 feet per second,
+ 45 kilometers per hour,
+ 27.96 miles per hour,
+ 
+ It would take 2 minutes and 8.75 seconds for Joe to ski one mile.
+ It would take 7.32 seconds for Joe to ski 100 yards.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab2.CSCD210Lab2
+ Please enter the skier's name: Bigfoot
+ Please enter the winning time: 100
+ 
+ Bigfoot was traveling at a rate of: 
+ 25 meters per second,
+ 82.02 feet per second,
+ 90 kilometers per hour,
+ 55.92 miles per hour,
+ 
+ It would take 1 minutes and 4.37 seconds for Bigfoot to ski one mile.
+ It would take 3.66 seconds for Bigfoot to ski 100 yards.
+ 
+  ----jGRASP: operation complete.
+ 
